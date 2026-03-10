@@ -1,0 +1,7 @@
+Doenças Cardiovasculares e Saúde Pública
+
+As doenças cardiovasculares (DCV) continuam sendo a principal causa de mortalidade em todo o mundo. A prevenção primária, com foco na redução de fatores de risco como hipertensão, tabagismo, sedentarismo e dietas inadequadas, é a pedra angular da saúde pública para mitigar este impacto. 
+
+Sintomas comuns de problemas cardíacos incluem dor no peito (angina), falta de ar, palpitações e fadiga extrema. O diagnóstico precoce através de eletrocardiogramas (ECG), ecocardiogramas e exames de sangue que medem biomarcadores (como a troponina) pode alterar drasticamente o prognóstico do paciente.
+
+A introdução de tecnologias inteligentes nos hospitais e de algoritmos baseados em Inteligência Artificial pode auxiliar não apenas na triagem inicial, mas também na predição de eventos agudos, como o infarto do miocárdio, usando grandes volumes de dados de pacientes (Big Data). Governança de dados e ética no tratamento destas informações pessoais de saúde são desafios prementes para as próximas décadas.

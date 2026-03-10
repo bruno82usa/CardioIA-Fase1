@@ -1,0 +1,7 @@
+Tratamentos Modernos e Monitoramento Contínuo em Cardiologia
+
+Com o avanço da Internet das Coisas (IoT) médica, dispositivos vestíveis (wearables) estão se tornando cruciais para o monitoramento contínuo de pacientes de risco. Relógios inteligentes e sensores em forma de adesivo conseguem capturar uma infinidade de dados fisiológicos em tempo real, desde a variabilidade da frequência cardíaca até a saturação de oxigênio.
+
+Para pacientes diagnosticados com arritmias ou em reabilitação pós-infarto, o acompanhamento remoto reduz a necessidade de internações prolongadas. Se os algoritmos embarcados detectarem uma anomalia nos sinais vitais, um alerta imediato pode ser enviado à equipe médica.
+
+Contudo, para que esses modelos de Machine Learning sejam precisos e não gerem um excesso de alarmes falsos, eles precisam ser treinados com dados diversificados, evitando o viés demográfico que prejudica minorias. A qualidade do dado (limpeza, anotação correta por especialistas) torna-se, portanto, tão importante quanto o algoritmo em si.

@@ -1,0 +1,151 @@
+id_paciente,idade,sexo,pressao_sistolica,pressao_diastolica,colesterol_total,frequencia_cardiaca,historico_familiar,dor_peito,glicemia_jejum_alta,risco_cardiaco
+1,68,F,168,106,266,109,Nao,Assintomatico,0,Baixo
+2,81,M,179,102,218,71,Nao,Angina Tipica,1,Medio
+3,58,M,112,77,248,60,Nao,Assintomatico,0,Medio
+4,44,M,129,74,289,103,Nao,Angina Tipica,1,Baixo
+5,72,F,168,108,174,64,Nao,Dor Nao Anginosa,0,Baixo
+6,37,M,145,73,272,89,Nao,Dor Atipica,0,Medio
+7,50,M,128,75,202,89,Nao,Assintomatico,0,Medio
+8,68,F,176,101,293,76,Sim,Angina Tipica,0,Medio
+9,48,M,128,99,206,107,Sim,Dor Nao Anginosa,0,Baixo
+10,52,M,129,104,188,106,Nao,Dor Atipica,0,Medio
+11,40,M,161,109,258,82,Nao,Assintomatico,0,Baixo
+12,40,M,142,85,191,74,Sim,Dor Atipica,0,Alto
+13,53,M,149,82,291,96,Nao,Dor Nao Anginosa,1,Medio
+14,82,F,148,99,271,80,Sim,Assintomatico,0,Baixo
+15,65,F,110,88,282,73,Nao,Dor Atipica,0,Baixo
+16,69,F,120,86,224,61,Sim,Angina Tipica,0,Medio
+17,53,M,166,88,295,70,Sim,Assintomatico,1,Alto
+18,32,M,159,97,225,98,Sim,Dor Atipica,0,Medio
+19,51,M,132,95,158,97,Nao,Dor Nao Anginosa,0,Medio
+20,82,F,140,106,223,93,Nao,Dor Nao Anginosa,1,Medio
+21,31,M,151,95,294,97,Sim,Assintomatico,1,Medio
+22,53,M,116,92,156,109,Nao,Dor Atipica,0,Baixo
+23,73,F,125,78,290,93,Sim,Assintomatico,0,Alto
+24,59,M,169,81,286,77,Nao,Assintomatico,0,Baixo
+25,67,F,111,70,176,89,Sim,Dor Atipica,0,Baixo
+26,31,F,110,70,271,74,Sim,Dor Atipica,0,Alto
+27,50,F,157,103,154,86,Nao,Angina Tipica,0,Baixo
+28,62,M,121,101,178,93,Nao,Dor Atipica,0,Baixo
+29,41,M,178,94,232,97,Nao,Dor Nao Anginosa,0,Baixo
+30,51,M,146,109,285,92,Nao,Assintomatico,1,Alto
+31,73,M,141,70,258,83,Nao,Assintomatico,0,Baixo
+32,54,M,118,85,214,74,Sim,Dor Nao Anginosa,0,Baixo
+33,78,M,128,108,235,89,Nao,Dor Atipica,1,Baixo
+34,56,M,157,74,294,101,Nao,Dor Nao Anginosa,0,Baixo
+35,71,F,112,91,220,76,Nao,Dor Nao Anginosa,0,Baixo
+36,57,M,129,98,194,64,Nao,Angina Tipica,0,Baixo
+37,45,F,133,72,281,88,Nao,Dor Nao Anginosa,0,Medio
+38,44,M,163,81,185,63,Nao,Assintomatico,0,Baixo
+39,76,M,142,95,219,69,Nao,Dor Nao Anginosa,0,Baixo
+40,80,M,133,85,168,76,Nao,Assintomatico,0,Baixo
+41,73,F,145,106,257,69,Sim,Assintomatico,0,Baixo
+42,84,F,147,91,240,76,Nao,Assintomatico,0,Medio
+43,81,F,134,98,239,79,Nao,Dor Atipica,1,Medio
+44,32,F,127,83,168,83,Sim,Angina Tipica,0,Baixo
+45,66,M,175,97,188,64,Nao,Assintomatico,1,Baixo
+46,80,F,163,74,275,93,Nao,Assintomatico,0,Baixo
+47,36,M,144,99,290,65,Nao,Dor Atipica,0,Alto
+48,50,M,170,74,275,61,Nao,Assintomatico,0,Medio
+49,38,F,150,81,207,72,Sim,Dor Nao Anginosa,1,Medio
+50,68,F,142,85,297,102,Nao,Dor Nao Anginosa,0,Baixo
+51,47,F,177,95,210,102,Nao,Angina Tipica,0,Alto
+52,33,F,142,95,276,107,Sim,Assintomatico,0,Baixo
+53,54,F,123,90,254,70,Nao,Dor Atipica,0,Baixo
+54,43,F,130,108,150,106,Sim,Dor Nao Anginosa,0,Baixo
+55,79,F,157,105,280,82,Nao,Dor Atipica,0,Baixo
+56,38,F,129,102,241,75,Nao,Dor Atipica,0,Alto
+57,55,M,117,99,262,90,Nao,Dor Nao Anginosa,0,Medio
+58,82,F,116,106,205,70,Sim,Dor Atipica,0,Baixo
+59,31,F,176,92,266,75,Nao,Dor Nao Anginosa,0,Medio
+60,49,M,126,79,283,67,Sim,Dor Atipica,0,Alto
+61,57,F,142,74,207,63,Sim,Dor Nao Anginosa,1,Alto
+62,76,M,157,105,193,99,Sim,Assintomatico,0,Medio
+63,36,M,168,103,210,63,Sim,Angina Tipica,0,Alto
+64,73,F,131,100,196,84,Nao,Dor Nao Anginosa,0,Alto
+65,37,M,139,79,298,62,Nao,Dor Nao Anginosa,0,Medio
+66,76,M,147,88,229,91,Nao,Angina Tipica,0,Baixo
+67,64,M,160,101,267,62,Sim,Dor Nao Anginosa,0,Baixo
+68,43,M,163,70,296,86,Nao,Dor Nao Anginosa,0,Alto
+69,46,F,117,74,169,88,Nao,Dor Atipica,0,Baixo
+70,65,M,136,73,295,91,Nao,Angina Tipica,0,Alto
+71,79,F,136,85,196,109,Nao,Assintomatico,0,Baixo
+72,69,M,130,93,198,78,Nao,Dor Nao Anginosa,0,Baixo
+73,33,M,139,85,163,80,Sim,Angina Tipica,0,Baixo
+74,31,M,137,71,292,64,Sim,Dor Atipica,0,Baixo
+75,35,M,173,97,150,77,Nao,Assintomatico,0,Alto
+76,83,F,178,101,266,87,Nao,Angina Tipica,0,Alto
+77,71,F,170,96,203,101,Sim,Assintomatico,0,Alto
+78,33,M,157,89,267,81,Nao,Assintomatico,0,Medio
+79,83,M,128,93,152,80,Nao,Assintomatico,0,Baixo
+80,58,F,113,81,293,65,Nao,Dor Nao Anginosa,0,Medio
+81,47,M,144,104,161,60,Nao,Dor Nao Anginosa,0,Medio
+82,55,M,173,102,223,64,Nao,Dor Atipica,0,Medio
+83,73,M,158,102,165,100,Sim,Dor Atipica,0,Baixo
+84,63,F,126,106,251,71,Sim,Angina Tipica,0,Medio
+85,39,F,153,81,266,85,Nao,Dor Atipica,0,Baixo
+86,65,F,139,72,157,105,Nao,Assintomatico,1,Alto
+87,43,M,155,70,271,93,Sim,Assintomatico,0,Alto
+88,60,M,115,102,241,108,Nao,Dor Nao Anginosa,0,Baixo
+89,77,F,146,109,239,73,Nao,Assintomatico,0,Medio
+90,44,F,133,79,285,85,Nao,Angina Tipica,0,Medio
+91,37,F,155,98,209,104,Nao,Assintomatico,0,Baixo
+92,43,F,162,82,177,86,Nao,Assintomatico,0,Alto
+93,52,M,169,81,250,68,Nao,Angina Tipica,1,Alto
+94,69,F,172,100,190,85,Nao,Dor Atipica,0,Baixo
+95,50,M,141,71,294,106,Nao,Dor Atipica,0,Baixo
+96,45,F,142,104,290,81,Nao,Angina Tipica,1,Baixo
+97,74,M,176,92,195,106,Sim,Dor Nao Anginosa,0,Baixo
+98,47,F,127,86,184,89,Sim,Assintomatico,1,Baixo
+99,76,F,134,95,283,102,Nao,Angina Tipica,0,Alto
+100,82,F,163,77,231,107,Sim,Assintomatico,0,Baixo
+101,53,F,167,98,264,76,Sim,Dor Nao Anginosa,0,Baixo
+102,55,M,176,95,196,85,Nao,Assintomatico,0,Alto
+103,54,F,155,79,159,95,Nao,Angina Tipica,0,Medio
+104,74,M,133,95,205,60,Sim,Assintomatico,0,Baixo
+105,70,M,141,103,179,67,Nao,Dor Atipica,0,Baixo
+106,58,M,156,76,258,108,Nao,Dor Nao Anginosa,1,Baixo
+107,44,M,132,73,154,94,Sim,Dor Nao Anginosa,0,Medio
+108,74,F,175,80,268,74,Nao,Dor Nao Anginosa,0,Baixo
+109,30,M,136,98,182,106,Nao,Angina Tipica,0,Medio
+110,54,M,111,105,267,81,Nao,Dor Nao Anginosa,0,Alto
+111,36,M,126,94,214,73,Nao,Dor Atipica,0,Baixo
+112,38,F,142,90,295,85,Nao,Angina Tipica,0,Alto
+113,53,F,118,105,160,87,Nao,Dor Atipica,0,Alto
+114,30,F,152,79,234,82,Nao,Assintomatico,0,Baixo
+115,73,F,157,106,175,73,Nao,Assintomatico,0,Alto
+116,37,M,148,78,212,83,Sim,Assintomatico,0,Medio
+117,53,M,151,93,235,61,Sim,Assintomatico,0,Alto
+118,40,F,135,104,208,104,Nao,Dor Atipica,0,Medio
+119,80,M,159,104,176,85,Nao,Angina Tipica,1,Medio
+120,46,M,134,105,247,73,Nao,Angina Tipica,0,Medio
+121,37,M,133,87,254,66,Sim,Dor Nao Anginosa,0,Alto
+122,64,F,122,108,248,62,Nao,Dor Atipica,0,Medio
+123,64,F,169,101,278,106,Sim,Assintomatico,0,Medio
+124,62,M,116,93,298,82,Nao,Dor Atipica,1,Alto
+125,34,F,166,92,204,105,Nao,Dor Nao Anginosa,0,Baixo
+126,71,F,145,101,155,102,Nao,Dor Nao Anginosa,0,Baixo
+127,68,F,154,106,244,106,Nao,Dor Atipica,0,Baixo
+128,70,F,129,81,282,104,Nao,Dor Atipica,0,Baixo
+129,57,F,174,82,251,77,Nao,Dor Atipica,1,Baixo
+130,36,M,117,92,152,97,Nao,Angina Tipica,0,Alto
+131,38,F,125,94,172,94,Sim,Assintomatico,0,Baixo
+132,37,M,123,104,202,74,Nao,Dor Atipica,0,Medio
+133,41,M,124,99,232,84,Nao,Dor Atipica,0,Baixo
+134,63,F,175,86,294,96,Nao,Dor Atipica,0,Alto
+135,62,M,141,89,234,87,Nao,Dor Nao Anginosa,1,Alto
+136,77,M,172,94,227,69,Nao,Dor Nao Anginosa,1,Baixo
+137,84,M,160,91,259,98,Nao,Angina Tipica,0,Alto
+138,52,F,134,82,150,76,Sim,Assintomatico,0,Baixo
+139,53,F,167,88,200,98,Sim,Angina Tipica,0,Alto
+140,66,M,172,105,153,81,Nao,Assintomatico,0,Baixo
+141,64,F,171,81,262,85,Sim,Dor Nao Anginosa,0,Alto
+142,73,F,131,88,181,103,Nao,Dor Nao Anginosa,0,Baixo
+143,69,F,167,81,183,84,Nao,Dor Nao Anginosa,1,Medio
+144,51,F,167,78,241,76,Sim,Angina Tipica,0,Medio
+145,56,M,158,76,244,72,Sim,Dor Atipica,0,Baixo
+146,64,M,161,97,221,79,Sim,Dor Atipica,0,Baixo
+147,30,F,151,83,188,84,Nao,Dor Nao Anginosa,0,Baixo
+148,64,F,179,100,267,63,Nao,Dor Atipica,0,Baixo
+149,66,M,124,88,152,69,Sim,Dor Atipica,0,Medio
+150,76,M,163,85,272,62,Nao,Angina Tipica,0,Baixo
