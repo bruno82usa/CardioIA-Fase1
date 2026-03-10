@@ -14,7 +14,7 @@ Nesta etapa foi gerado um dataset simulado com 150 registros contendo as seguint
   - **Pressão Arterial e Colesterol**: Fundamentais, pois são os principais fatores de risco tratáveis associados à insuficiência cardíaca e AVCs.
   - **Dor no Peito (Sintoma)**: Serve como o "gatilho" para o algoritmo classificar urgências. 
 - **Importância para a IA na Saúde**: Tais variáveis tabulares são a base para o treinamento de modelos de *Machine Learning* supervisionados (como Random Forest ou Regressão Logística) na Fase 2 do projeto, visando estratificar o risco do paciente.
-- **Acesso**: [Substitua por Link do OneDrive/Google Drive aqui contendo a pasta dados_numericos]
+- **Acesso**: [Acessar Dados Numéricos no GitHub](https://github.com/bruno82usa/CardioIA-Fase1/tree/main/dados_numericos)
 
 ### Parte 2 – Dados Textuais (NLP)
 Foram coletados dois textos de caráter médico e de saúde pública para compor a base textual do projeto. Ambos os arquivos encontram-se na subpasta [`docs/`](./docs).
@@ -31,7 +31,7 @@ Reunimos uma amostra simulada representativa de 100 imagens de Eletrocardiograma
   - Algoritmos de redes neurais convolucionais (CNNs) podem processar essas formas de onda (quando dispostas como imagem) ou exames como raio-x para detecção de anomalias espaciais (ex: cardiomegalia, arritmias).
   - Outros modelos de detecção de padrões podem segmentar a imagem, identificando picos R-R irregulares, atuando como um "segundo olhar" de apoio ao médico.
 - **Importância**: O diagnóstico por imagem é uma das áreas mais bem-sucedidas em IA aplicada à medicina moderna. Reduzir a carga cognitiva do radiologista e agilizar o atendimento de urgência são os principais impactos esperados.
-- **Acesso**: [Substitua por Link do OneDrive/Google Drive aqui contendo a pasta dados_visuais]
+- **Acesso**: [Acessar Imagens Simuladas no GitHub](https://github.com/bruno82usa/CardioIA-Fase1/tree/main/dados_visuais)
 
 ---
 *Construído como parte da avaliação em PBL do curso de Inteligência Artificial da FIAP.*
